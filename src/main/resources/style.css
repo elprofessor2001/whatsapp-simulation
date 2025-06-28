@@ -1,0 +1,54 @@
+/* style.css - Apparence de WhatsApp Simulation */
+
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-background-color: #ffffff;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-font-weight: normal;
+}
+
+.text {
+    -fx-fill: #000000;
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-background-color: #25D366;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
+
+.text-field {
+    -fx-font-size: 14px;
+}
+
+.list-view {
+    -fx-background-color: #f0f0f0;
+    -fx-border-color: #cccccc;
+}
+
+/* Style des bulles de messages */
+.bubble-green {
+    -fx-background-color: #dcf8c6;
+    -fx-padding: 8px 12px;
+    -fx-background-radius: 12px;
+    -fx-border-radius: 12px;
+    -fx-max-width: 400px;
+}
+
+.bubble-gray {
+    -fx-background-color: #f1f0f0;
+    -fx-padding: 8px 12px;
+    -fx-background-radius: 12px;
+    -fx-border-radius: 12px;
+    -fx-max-width: 400px;
+}
+
+.scroll-pane {
+    -fx-background: #ffffff;
+    -fx-border-color: #cccccc;
+}

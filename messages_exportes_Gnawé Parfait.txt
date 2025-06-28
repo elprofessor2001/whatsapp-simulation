@@ -1,0 +1,10 @@
+✔ Connecté au serveur en tant que Gnawé Parfait
+✔ Gnawé Parfait a rejoint le groupe.
+✔ Lionel Messi a rejoint le groupe.
+Lionel Messi : Bonjour à tous !
+Gnawé Parfait : Salut on dit quoi ?
+Lionel Messi : Je vais essayer d'exporter les messages.
+Lionel Messi : Tu en dis quoi ?
+Gnawé Parfait : Oui vas-y
+Lionel Messi : D'accord !
+Gnawé Parfait : Ok je te reviendrai.
